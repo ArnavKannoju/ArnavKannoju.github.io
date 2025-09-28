@@ -1,7 +1,7 @@
 # ArnavKannoju.github.io
 lowkey don't know what i am doing
 Headings
-# H1
+Print out the details 
 ## H2
 ### H3
 #### H4
